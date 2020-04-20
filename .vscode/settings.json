@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "env/bin/python3.6",
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintPath": "pylint_django",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+    "[python]": {}
+}
